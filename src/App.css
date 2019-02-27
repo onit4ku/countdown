@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20%;
+}
+
+.App-header {
+    font-size: 2.5rem;
+}
+
+.timer-days,
+.timer-hours,
+.timer-minutes,
+.timer-seconds {
+    display: inline;
+    margin: 10px;
+}
