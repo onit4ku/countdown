@@ -7,7 +7,7 @@ class App extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            deadLine: "July 31, 2019",
+            deadLine: "September 6, 2019",
             newDeadLine: ""
         };
     }
